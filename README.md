@@ -1,4 +1,4 @@
-👋 Hi, I’m @IbraStone
+👋 Hi, I’m @Ibrahim
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, SQL, R, Power BI and Tableau.
 - 💞️ I’m looking to collaborate on data analytics projects to enhance my skills.
