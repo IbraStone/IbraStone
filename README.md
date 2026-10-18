@@ -1,6 +1,6 @@
 👋 Hi, I'm Ibrahim Traore
 
-⚡ Electrical Engineer | Industrial Automation | OT/ICS Cybersecurity | Data Analytics | PMP®
+⚡ Electrical Engineer | Industrial Automation | OT/ICS Cybersecurity | PMP®
 
 I'm an electrical engineer with experience in electrical systems design, industrial automation, instrumentation and control, project management, and operational technology. I'm expanding my skills in data analytics and cybersecurity to transform industrial data into actionable insights and help build more secure, reliable industrial systems.
 
@@ -38,7 +38,7 @@ Exploring data analytics for industrial operations and cybersecurity monitoring.
 
 Developing Python and SQL skills for data processing, analysis, and reporting.
 
-Exploring data visualization techniques using Power BI and Tableau.
+Migaration ESXi Host Client to Microsoft Azure - ICS OT Cyber Labs
 
 Applying electrical engineering and automation knowledge to industrial cybersecurity challenges.
 
